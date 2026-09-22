@@ -1,0 +1,8 @@
+{
+  "name": "SISTEMA FÊNIX ABA DOCUMENTO",
+  "description": "Imported from GitHub: gomesv891-ship-it/COMPLEMENTO",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
